@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: rgb(87, 87, 87);
+    font-family: 'Comfortaa', sans-serif,Arial, Helvetica, sans-serif;
+}
+.topdiv {
+    
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    padding-top: 100px;
+
+}
+.middlediv {
+    
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+
+}
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+h1 {
+    margin-top: 0;
+}
+.imgmountain {
+    width: 900px;
+    height: 600px;
+    bottom: -200px;
+    position: absolute;
+    right: -350px;
+}
+.middle-conatiner{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    padding-top: 100px;
+}
